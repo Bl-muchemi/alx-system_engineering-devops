@@ -1,0 +1,3 @@
+#!/bin/bash
+printf "4.2f" $SUM |sort
+
